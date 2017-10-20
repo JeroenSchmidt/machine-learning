@@ -1,5 +1,8 @@
 # Supplementary material
 
-All material in this file I obtained from the following [github repo](https://github.com/yanfei-wu/Udacity_connect) which is a collection of Jupyter Notebooks from Udacity Connect Intensive Machine Learning Nanodegree.
+All material in this file I obtained from the following two git repos:
 
-You will find contained within extra tutorial and practice notebooks that you would otherwise not find in the normal Machine Learning nanodegree. 
+* [Yanfei Wu](https://github.com/yanfei-wu/Udacity_connect) 
+* [Nicky Pie](https://github.com/nickypie/ConnectIntensive)
+
+They are a collection of Jupyter Notebooks from Udacity Connect Intensive Machine Learning Nanodegree  that you would otherwise not find in the normal Machine Learning nanodegree. 
